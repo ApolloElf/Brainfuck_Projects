@@ -10,4 +10,4 @@ SUBTRACT V48 FROM C0
     < move to C0
     [->-<] subtract V48 from C0 leaving Result in C0
 
-    POINTER STOPS IN C0
+    POINTER STOPS IN C0 
